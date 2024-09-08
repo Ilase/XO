@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/XO.dir/src/main.cpp.o -o XO 

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/ilase/Documents/Work/CPP/Projects/little-one/nvim-src-testing/build",
+  "command": "/usr/bin/c++  -I/home/ilase/Documents/Work/CPP/Projects/little-one/nvim-src-testing/include -g -std=gnu++23 -o CMakeFiles/XO.dir/src/main.cpp.o -c /home/ilase/Documents/Work/CPP/Projects/little-one/nvim-src-testing/src/main.cpp",
+  "file": "/home/ilase/Documents/Work/CPP/Projects/little-one/nvim-src-testing/src/main.cpp",
+  "output": "CMakeFiles/XO.dir/src/main.cpp.o"
+}
+]
